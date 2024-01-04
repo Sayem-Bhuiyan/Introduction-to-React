@@ -1,11 +1,11 @@
-import Card from "./Card.jsx";
+import Button from "./Button.jsx";
+import Button2 from "./Button/Button2.jsx";
 
 function App() {
   return(
     <>
-      <Card/>   
-      <Card/>   
-      <Card/>   
+       <Button/> 
+       <Button2/>
     </>
   );
 }
